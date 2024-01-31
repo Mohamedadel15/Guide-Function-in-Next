@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Form from "@/helper-Components/handleFormInNext/form";
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
                 About
             </Link>
         </div>
+        <Form />
 
     </main>
   );
