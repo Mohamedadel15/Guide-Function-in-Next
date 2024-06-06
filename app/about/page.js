@@ -26,7 +26,6 @@ const AboutPage = () => {
                 </Link>
             </div>
             <ImagePicker/>
-
         </div>
     );
 };
